@@ -1,0 +1,101 @@
+[
+  {
+    "id": "speed_of_light",
+    "name": "Speed of light in vacuum",
+    "symbol": "c",
+    "value": "299792458",
+    "unit": "m/s",
+    "category": "Universal",
+    "aliases": ["light speed", "speed of light", "c"],
+    "exact": true,
+    "source": "CODATA/NIST"
+  },
+  {
+    "id": "planck_constant",
+    "name": "Planck constant",
+    "symbol": "h",
+    "value": "6.62607015e-34",
+    "unit": "J s",
+    "category": "Quantum",
+    "aliases": ["planck", "h"],
+    "exact": true,
+    "source": "CODATA/NIST"
+  },
+  {
+    "id": "reduced_planck_constant",
+    "name": "Reduced Planck constant",
+    "symbol": "ℏ",
+    "value": "1.054571817e-34",
+    "unit": "J s",
+    "category": "Quantum",
+    "aliases": ["hbar", "h-bar", "reduced planck", "h_bar"],
+    "exact": false,
+    "source": "CODATA/NIST"
+  },
+  {
+    "id": "boltzmann_constant",
+    "name": "Boltzmann constant",
+    "symbol": "k_B",
+    "value": "1.380649e-23",
+    "unit": "J/K",
+    "category": "Thermodynamics",
+    "aliases": ["boltzmann", "kb", "k_b"],
+    "exact": true,
+    "source": "CODATA/NIST"
+  },
+  {
+    "id": "elementary_charge",
+    "name": "Elementary charge",
+    "symbol": "e",
+    "value": "1.602176634e-19",
+    "unit": "C",
+    "category": "Electromagnetism",
+    "aliases": ["electron charge", "charge quantum", "fundamental charge", "elementary charge"],
+    "exact": true,
+    "source": "CODATA/NIST"
+  },
+  {
+    "id": "avogadro_constant",
+    "name": "Avogadro constant",
+    "symbol": "N_A",
+    "value": "6.02214076e23",
+    "unit": "mol^-1",
+    "category": "Chemistry",
+    "aliases": ["avogadro", "avogadro number", "avogadro's number", "avogadros number"],
+    "exact": true,
+    "source": "CODATA/NIST"
+  },
+  {
+    "id": "gravitational_constant",
+    "name": "Newtonian constant of gravitation",
+    "symbol": "G",
+    "value": "6.67430e-11",
+    "unit": "m^3 kg^-1 s^-2",
+    "category": "Gravity",
+    "aliases": ["gravitational constant", "big g", "capital G", "g"],
+    "exact": false,
+    "source": "CODATA/NIST"
+  },
+  {
+    "id": "gas_constant",
+    "name": "Molar gas constant",
+    "symbol": "R",
+    "value": "8.31446261815324",
+    "unit": "J mol^-1 K^-1",
+    "category": "Thermodynamics",
+    "aliases": ["ideal gas constant", "gas constant"],
+    "exact": true,
+    "source": "CODATA/NIST"
+  },
+  {
+    "id": "electron_mass",
+    "name": "Electron mass",
+    "symbol": "m_e",
+    "value": "9.10938371392828e-31",
+    "unit": "kg",
+    "category": "Electromagnetism",
+    "aliases": ["mass electron", "m_e", "me"],
+    "exact": true,
+    "source": "CODATA/NIST"
+  }
+]
